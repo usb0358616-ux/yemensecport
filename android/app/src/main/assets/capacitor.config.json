@@ -1,0 +1,8 @@
+{
+	"appId": "com.smartports.app",
+	"appName": "نظام المنافذ الذكية",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
